@@ -1,0 +1,14 @@
+{
+  "firestore": {
+    "rules": "FIX WORK 9 PLZ CAN DEPLOY",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": {
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
